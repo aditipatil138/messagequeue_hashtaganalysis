@@ -1,6 +1,6 @@
 # README.txt
 CPSC 449 - Web Back-End Engineering
-Project 5, Fall 2020
+Project 7, Fall 2020
 
 Participants:
 1) Ankita Udaykumar Kulkarni - 887871861
